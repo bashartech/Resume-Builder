@@ -296,7 +296,7 @@ padding: 10px;}
         }
     .btn {
     /* background-color: #fff; */
-    height: 80px;
+    height: 85px;
     display: flex;
     justify-content: centre;
     align-items: center;
@@ -304,6 +304,13 @@ padding: 10px;}
 }
 @media screen and (max-width: 385px) {
     
+    .btn {
+    /* background-color: #fff; */
+    height: 85px;
+    display: flex;
+    justify-content: centre;
+    align-items: center;
+}
     .contactDetails .name{
         color: rgb(146, 146, 118);
     font-size: 30px;
