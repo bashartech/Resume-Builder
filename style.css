@@ -301,7 +301,9 @@ padding: 10px;}
     justify-content: end;
     align-items: center;
 }
-    
+  .btn button{
+      margin:10px;
+  }  
 }
 @media screen and (max-width: 385px) {
     
