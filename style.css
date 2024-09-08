@@ -298,12 +298,10 @@ padding: 10px;}
     /* background-color: #fff; */
     height: 85px;
     display: flex;
-    justify-content: end;
+    justify-content: center;
     align-items: center;
 }
-  .btn button{
-      margin:5px;
-  }  
+ 
 }
 @media screen and (max-width: 385px) {
     
@@ -311,7 +309,7 @@ padding: 10px;}
     /* background-color: #fff; */
     height: 85px;
     display: flex;
-    justify-content: end;
+    justify-content: center;
     align-items: center;
 }
     .contactDetails .name{
