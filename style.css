@@ -219,6 +219,8 @@ font-style: italic;
 width: 190px;
 height: 35px;
 background: transparent;
+      box-shadow: 2px 2px 5px 2px rgb(66, 33, 33) ;
+border: none;
 margin-left: 12px;
 cursor: pointer;
 
@@ -292,6 +294,13 @@ padding: 10px;}
         height: 120px;
         border-radius: 80px;
         }
+    .btn {
+    /* background-color: #fff; */
+    height: 80px;
+    display: flex;
+    justify-content: centre;
+    align-items: center;
+}
 }
 @media screen and (max-width: 385px) {
     
