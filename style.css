@@ -298,9 +298,10 @@ padding: 10px;}
     /* background-color: #fff; */
     height: 85px;
     display: flex;
-    justify-content: centre;
+    justify-content: end;
     align-items: center;
 }
+    
 }
 @media screen and (max-width: 385px) {
     
@@ -308,7 +309,7 @@ padding: 10px;}
     /* background-color: #fff; */
     height: 85px;
     display: flex;
-    justify-content: centre;
+    justify-content: end;
     align-items: center;
 }
     .contactDetails .name{
